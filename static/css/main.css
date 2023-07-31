@@ -1,6 +1,7 @@
 /* Copyright (c) 2017 Anish Athalye */
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+@import url(https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css);
 
 /* Basic styling */
 
@@ -14,7 +15,7 @@
 html {
 /*  font-size: 14px;
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Vazirmatn","Source Sans Pro", sans-serif;
   font-size: 14pt;
   line-height: 1.5;
 }
@@ -22,7 +23,7 @@ html {
 @media(min-width: 480px) {
   html {
     /*font-size: 16px;*/
-    font-size: 14pt;
+    font-size: 13pt;
   }
 }
 
