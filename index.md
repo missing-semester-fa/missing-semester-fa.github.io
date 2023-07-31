@@ -1,23 +1,14 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: ترم گمشده تحصیلات علوم کامپیوتر شما
 nositetitle: true
 ---
 
-Classes teach you all about advanced topics within CS, from operating systems
-to machine learning, but there’s one critical subject that’s rarely covered,
-and is instead left to students to figure out on their own: proficiency with
-their tools. We’ll teach you how to master the command-line, use a powerful
-text editor, use fancy features of version control systems, and much more!
+کلاس‌ها همه چیز را در مورد موضوعات پیشرفته در علوم کامپیوتر، از سیستم‌عامل گرفته تا یادگیری ماشین، به شما می‌آموزند، اما یک موضوع مهم وجود دارد که به‌ندرت پوشش داده می‌شود و در عوض به خود دانشجویان واگذار می‌شود تا خودشان آن را کسب کنند: مهارت و زبردستی در ابزارهایشان. ما به شما یاد خواهیم داد که چگونه بر خط فرمان مسلط شوید، از یک ویرایشگر متن قدرتمند استفاده کنید، از ویژگی‌های فانتزی سیستم‌های کنترل نسخه استفاده کنید، و موارد بسیار دیگر!
 
-Students spend hundreds of hours using these tools over the course of their
-education (and thousands over their career), so it makes sense to make the
-experience as fluid and frictionless as possible. Mastering these tools not
-only enables you to spend less time on figuring out how to bend your tools to
-your will, but it also lets you solve problems that would previously seem
-impossibly complex.
+دانشجویان صدها ساعت را در طول دوران تحصیل خود (و هزاران ساعت را در طول حرفه خود) با به استفاده از این ابزارها می‌گذرانند، بنابراین منطقی است که این تجربه را تا حد امکان روان و بدون اصطکاک کرد. تسلط بر این ابزارها نه تنها شما را قادر می‌سازد که زمان کمتری را صرف چگونگی تطبیق ابزارهای خود با هدفتان کنید، بلکه به شما این امکان را می‌دهد که مشکلاتی را که قبلاً پیچیده و غیرممکن به نظر می‌رسیدند، حل کنید.
 
-Read about the [motivation behind this class](/about/).
+درباره [انگیزه پشت این کلاس](/about/) بخوانید.
 
 {% comment %}
 # Registration
@@ -25,7 +16,7 @@ Read about the [motivation behind this class](/about/).
 Sign up for the IAP 2020 class by filling out this [registration form](https://forms.gle/TD1KnwCSV52qexVt9).
 {% endcomment %}
 
-# Schedule
+# برنامه درسی
 
 {% comment %}
 **Lecture**: 35-225, 2pm--3pm<br>
@@ -48,18 +39,16 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
 {% endfor %}
 </ul>
 
-Video recordings of the lectures are available [on
-YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J).
+ویدیوهای ضبط‌شده از سخنرانی‌ها (به زبان انگلیسی) [در یوتیوب](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) موجود است. 
 
-# About the class
+# درباره کلاس
 
-**Staff**: This class is co-taught by [Anish](https://www.anishathalye.com/), [Jon](https://thesquareplanet.com/), and [Jose](http://josejg.com/).<br>
-**Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+**اعضا**: این کلاس توسط [Anish](https://www.anishathalye.com/)، [Jon](https://thesquareplanet.com/) و [Jose](http://josejg.com/) به‌طور مشترک تدریس می‌شود.<br>
+**سؤالات**: به نگهدارندگان مخزن اصلی از طریق [missing-semester@mit.edu](mailto:missing-semester@mit.edu) ایمیل بزنید.
 
-# Beyond MIT
+# فراتر از MIT
 
-We've also shared this class beyond MIT in the hopes that others may
-benefit from these resources. You can find posts and discussion on
+ به امید آنکه دیگران از این منابع بهره ببرند این کلاس فراتر از MIT به اشتراک گذاشته شده است. می‌توانید پست‌ها و مباحث مربوطه را در موارد زیر پیدا کنید:
 
  - [Hacker News](https://news.ycombinator.com/item?id=22226380)
  - [Lobsters](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit)
@@ -81,7 +70,7 @@ Some more URLs:
 - https://twitter.com/MIT_CSAIL/status/1581313961093484545
 {% endcomment %}
 
-# Translations
+# ترجمه‌ها
 
 - [Chinese (Simplified)](https://missing-semester-cn.github.io/)
 - [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
@@ -96,25 +85,19 @@ Some more URLs:
 - [Arabic](https://missing-semester-ar.github.io/)
 - [Italian](https://missing-semester-it.github.io/)
 
-Note: these are external links to community translations. We have not vetted
-them.
+توجه: موارد بالا پیوندهای خارجی به ترجمه‌های عمومی هستند و توسط ما بررسی نشده‌اند.
 
-Have you created a translation of the course notes from this class? Submit a
-[pull request](https://github.com/missing-semester/missing-semester/pulls) so
-we can add it to the list!
+## سپاسگزاری‌ها
 
-## Acknowledgements
-
-We thank Elaine Mello, Jim Cain, and [MIT Open
-Learning](https://openlearning.mit.edu/) for making it possible for us to
-record lecture videos; Anthony Zolnik and [MIT
-AeroAstro](https://aeroastro.mit.edu/) for A/V equipment; and Brandi Adams and
-[MIT EECS](https://www.eecs.mit.edu/) for supporting this class.
+از Elaine Mello، Jim Cain و [MIT Open
+Learning](https://openlearning.mit.edu/) که امکان ضبط ویدیوهای سخنرانی را  فراهم کردند؛ از  Anthony Zolnik و [MIT
+AeroAstro](https://aeroastro.mit.edu/) برای تجهیزات صوتی و تصویری؛ و از Brandi Adams و
+[MIT EECS](https://www.eecs.mit.edu/) برای پشتیبانی این کلاس تشکر می‌کنیم.
 
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source code</a>.</p>
-<p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
+<p><a href="https://github.com/missing-semester-fa/missing-semester-fa.github.io">کد منبع</a>.</p>
+<p>تحت مجوز CC BY-NC-SA.</p>
+<p>برای مشارکت <a href="/license/">اینجا</a> را بخوانید.</p>
 </div>
