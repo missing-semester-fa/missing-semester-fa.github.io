@@ -72,6 +72,7 @@ Some more URLs:
 
 # ترجمه‌ها
 
+- [English](https://missing.csail.mit.edu/)
 - [Chinese (Simplified)](https://missing-semester-cn.github.io/)
 - [Chinese (Traditional)](https://missing-semester-zh-hant.github.io/)
 - [Japanese](https://missing-semester-jp.github.io/)
@@ -84,6 +85,7 @@ Some more URLs:
 - [Vietnamese](https://missing-semester-vn.github.io/)
 - [Arabic](https://missing-semester-ar.github.io/)
 - [Italian](https://missing-semester-it.github.io/)
+- [Persian](https://missing-semester-fa.github.io/)
 
 توجه: موارد بالا پیوندهای خارجی به ترجمه‌های عمومی هستند و توسط ما بررسی نشده‌اند.
 
