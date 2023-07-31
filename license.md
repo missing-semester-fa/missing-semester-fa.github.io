@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "License"
+title: "مجوز"
 permalink: /license/
 ---
 
