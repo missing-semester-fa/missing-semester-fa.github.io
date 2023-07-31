@@ -8,25 +8,13 @@ video:
   id: Z56Jmr9Z34Q
 ---
 
-# Motivation
+# انگیزش
 
-As computer scientists, we know that computers are great at aiding in
-repetitive tasks. However, far too often, we forget that this applies
-just as much to our _use_ of the computer as it does to the computations
-we want our programs to perform. We have a vast range of tools
-available at our fingertips that enable us to be more productive and
-solve more complex problems when working on any computer-related
-problem. Yet many of us utilize only a small fraction of those tools; we
-only know enough magical incantations by rote to get by, and blindly
-copy-paste commands from the internet when we get stuck.
+به عنوان دانشمندان کامپیوتر، می‌دانیم که کامپیوترها در کمک به کارهای تکراری عالی هستند. با این حال، اغلب فراموش می‌کنیم که این به همان اندازه که برای محاسباتی  که می‌خواهیم برنامه‌ها انجام دهند، صدق می‌کند برای استفاده ما از کامپیوتر نیز صادق است. ما طیف گسترده‌ای از ابزارها را در دسترس داریم که به ما این امکان را می‌دهند که هنگام کار بر روی هر مشکل مرتبط با کامپیوتر، بهره‌ورتر باشیم و مشکلات پیچیده‌تری را حل کنیم. با این حال، بسیاری از ما تنها بخش کوچکی از این ابزارها را به‌کار می‌بریم. ما تنها به‌اندازه کافی وردهای جادویی را می‌دانیم که بتوانیم این ابزارها را پیدا کنیم، و زمانی که گیر می‌کنیم دستورات را کورکورانه از اینترنت کپی-پیست می‌کنیم.
 
-This class is an attempt to address this.
+این کلاس تلاشی برای پرداختن به این موضوع است.
 
-We want to teach you how to make the most of the tools you know, show
-you new tools to add to your toolbox, and hopefully instill in you some
-excitement for exploring (and perhaps building) more tools on your own.
-This is what we believe to be the missing semester from most Computer
-Science curricula.
+ما می‌خواهیم به شما آموزش دهیم که چگونه از ابزارهایی که می‌شناسید بهترین استفاده را ببرید، ابزارهای جدیدی را به شما نشان می‌دهیم تا به جعبه ابزار خود اضافه کنید، و امیدواریم برای کاوش (و شاید تولید) ابزارهای بیشتر هیجان و علاقه‌ای را در شما ایجاد کنیم. این همان چیزی است که ما معتقدیم ترم گمشده در اکثر برنامه‌های درسی علوم کامپیوتر است.
 
 # Class structure
 
