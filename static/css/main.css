@@ -68,15 +68,15 @@ em {
 
 ul {
   list-style-position: inside;
-  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 ol {
-  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 li > ul {
-  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 ul li {
@@ -94,7 +94,7 @@ ul ul, ol ul, ul ol, ol ol {
 ul li:before {
   content: "\2013  "; /* note: extra space needed because first is consumed by css parser */
   position: absolute;
-  margin-left: -1rem;
+  margin-right: -1rem;
 }
 
 ul.double-spaced li {
@@ -103,6 +103,7 @@ ul.double-spaced li {
 
 pre, code {
   font-family: "Source Code Pro", "Menlo", "DejaVu Sans Mono", "Lucida Console", monospace;
+  direction: ltr;
 }
 
 code {
