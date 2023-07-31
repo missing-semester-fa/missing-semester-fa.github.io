@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Potpourri"
+title: "درهم و برهم"
 date: 2020-01-29
 ready: true
 video:

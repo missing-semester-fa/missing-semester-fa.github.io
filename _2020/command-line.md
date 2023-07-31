@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Command-line Environment"
+title: "محیط خط فرمان"
 date: 2020-01-21
 ready: true
 video:

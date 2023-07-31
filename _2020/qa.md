@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Q&A"
+title: "پرسش و پاسخ"
 date: 2020-01-30
 ready: true
 video:

@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Data Wrangling"
+title: "آماده‌سازی داده"
 date: 2020-01-16
 ready: true
 video:

@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "Metaprogramming"
+title: "فرابرنامه‌نویسی"
 details: build systems, dependency management, testing, CI
 date: 2020-01-27
 ready: true
